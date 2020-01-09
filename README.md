@@ -31,4 +31,4 @@
 
 ### Project Link
 
-* (https://github.com/Padman83/BasicSlider)
+* (https://github.com/Padman83/Basic-Slider)
