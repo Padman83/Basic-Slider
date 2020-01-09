@@ -4,6 +4,7 @@
 
 ### Basic Slider App
 
+![Basic Slider](https://user-images.githubusercontent.com/45048950/72086589-1ddb7080-3342-11ea-929f-cf755ea7fa70.gif)
 
 
 ### Tools + Language + Framework + Techniques :
