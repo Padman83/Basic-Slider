@@ -1,12 +1,8 @@
-<img src="https://swift.org/assets/images/swift.svg" alt="Swift logo" height="70" >
+![Apple Logo](https://user-images.githubusercontent.com/45048950/73131198-bca1e580-4041-11ea-8f8d-ebfd844f0e64.png) 
 
-# iOS Basic Slider App
+# iOS Basic Slider
 
-![Basic Slider](https://user-images.githubusercontent.com/45048950/72086589-1ddb7080-3342-11ea-929f-cf755ea7fa70.gif)
-
-### Code Editor
-
-* (https://developer.apple.com/xcode/ide)
+![iOS Basic Slider](https://user-images.githubusercontent.com/45048950/74608847-78c16e00-511f-11ea-923e-814464a5c4aa.gif)
 
 ### Built With
 
