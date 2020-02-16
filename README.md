@@ -4,7 +4,7 @@
 
 ![iOS Basic Slider](https://user-images.githubusercontent.com/45048950/74608847-78c16e00-511f-11ea-923e-814464a5c4aa.gif)
 
-### Built With
+### Code Editor
 
 * (https://developer.apple.com/xcode)
 
